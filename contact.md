@@ -2,17 +2,17 @@
 
 # John Doe
 
-Développeur web junior, en formation "Développement Web et Accessibilité"
+*Développeur web junior, en formation "Développement Web et Accessibilité"*
 
 ## Contact
 
 Une question? Une idée? Une proposition?<br>
 Contactez-moi!
 
- ✉ John.doe@gmail.com
- 📞+33(0)7 08 09 10 11
-   [Linkedin](#)
-   [Twitter](#)
+ ✉ John.doe@gmail.com<br>
+ 📞+33(0)7 08 09 10 11<br>
+   [Linkedin](#)<br>
+   [Twitter](#)<br>
 
 A bientôt!
 
