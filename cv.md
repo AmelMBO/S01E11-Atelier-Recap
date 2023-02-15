@@ -1,6 +1,10 @@
-# CV
+![John Doegit](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
 
+# John Doe
 
+Développeur web junior, en formation "Développement Web et Accessibilité"
+
+## CV
 
 John Doe
 
@@ -37,6 +41,6 @@ Musique (triangle cadien) - Combats de robot - Echecs (le jeu) - Clash of clans
 
 ---
 
-@ 2023 - John Doe - Me contacter
+© 2023 - John Doe - [Me contacter](contact.md)
 
 

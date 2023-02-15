@@ -24,4 +24,4 @@ Développeur web junior, en formation "Développement Web et Accessibilité"
 
  ---
 
-  @ 2023 - John Doe - [Me contacter](contact.md)
+  cl 2023 - John Doe - [Me contacter](contact.md)
