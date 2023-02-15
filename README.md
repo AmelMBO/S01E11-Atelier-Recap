@@ -3,7 +3,7 @@
 ![John Doe](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
 
 
-# John Doe
+# **John Doe**
 
 *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
@@ -11,7 +11,7 @@
 [Accueil](README.md)- [Projets](projets.md)- [CV](cv.md)- [Contact](contact.md)
 
 
-## Présentation
+## **Présentation**
 
  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."  
 
@@ -24,4 +24,4 @@
 
  ---
 
-  © 2023 - John Doe - [Me contacter](contact.md)
+  © 2023 - **John Doe** - [Me contacter](contact.md)
