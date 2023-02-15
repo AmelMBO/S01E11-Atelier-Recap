@@ -1,4 +1,4 @@
-# ![John Doegit](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
+# ![John Doe](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
 
 # John Doe
 

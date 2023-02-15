@@ -1,6 +1,6 @@
 # S01E11-Atelier-Recap
 
-![John Doegit](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
+![John Doe](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
 
 
 # John Doe
@@ -8,7 +8,7 @@
 Développeur web junior, en formation "Développement Web et Accessibilité"
 
 
-[Acceuil](README.md)- [Projets](projets.md)- [CV](cv.md)- [Contact](contact.md)
+[Accueil](README.md)- [Projets](projets.md)- [CV](cv.md)- [Contact](contact.md)
 
 
 ## Présentation
