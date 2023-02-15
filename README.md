@@ -1,5 +1,7 @@
 # S01E11-Atelier-Recap
 
+[John Doe](https://raw.githubusercontent.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/main/img/desk-banner.jpg)
+
 ## Accueil
 
 ### John Doe
