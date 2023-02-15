@@ -21,5 +21,5 @@ A bientôt!
 
 ---
 
-© 2023 - John Doe - Me contacter
+© 2023 - John Doe - [Me contacter](contact.md)
 
