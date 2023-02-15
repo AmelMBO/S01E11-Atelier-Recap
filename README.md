@@ -1,6 +1,6 @@
 # S01E11-Atelier-Recap
 
-![John Doe](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
+![John Doegit](https://github.com/Tom-Roche-Oclock/S01E11-Atelier-Recap/blob/main/img/desk-banner.jpg)
 
 
 ## John Doe
@@ -21,6 +21,6 @@ Accueil- Projets- CV- Contact
 
 
 
-
+ ---
 
   @ 2023 - John Doe - Me contacter
